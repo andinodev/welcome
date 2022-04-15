@@ -1,5 +1,6 @@
-# Bienvenido! aqui te adjunto alguno de las herramientas que he generado o adaptado para solventar rapidamente los formatos chilenos
- - Desarrollado en **typescript** para **npm**
+# Bienvenido! 
+ > aqui te adjunto alguno de las herramientas que he generado o adaptado para solventar rapidamente los formatos chilenos
+ > - Desarrollado en **typescript** para **npm**
 
 ## npm i andinotools
 Herramienta generada para solucionar problemas con formatos chilenos
