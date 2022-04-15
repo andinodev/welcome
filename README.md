@@ -3,11 +3,10 @@
  > - Desarrollado en **typescript** para **npm**
 
 ## npm i andinotools
-Herramienta generada para solucionar problemas con formatos chilenos
-actualmente la herramienta cuenta con
+ > actualmente la herramienta cuenta con
 
- - Generar un formato de moneda chilena
- - Verificar formato de rut
+ > - Generar un formato de moneda chilena
+ > - Verificar formato de rut
 
 ### Funciones
 
